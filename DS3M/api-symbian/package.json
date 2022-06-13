@@ -1,0 +1,24 @@
+{"name": "api-symbian",
+  "version": "1.0.0",
+  "description": "\"API CRIADA NA AULA DE DESENVOLVIMENTO ANDROID. ACESSADO, CONSUMINDO E MANIPULANDO DADOS DE API COM USO DO RETROFIT\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "ANDROID",
+    "RETROFIT",
+    "NODEJS",
+    "API",
+    "APIREST"
+  ],
+  "author": "LUIZA OLIVEIRA ROSA",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.16",
+    "sequelize": "^6.20.1"
+  }
+}

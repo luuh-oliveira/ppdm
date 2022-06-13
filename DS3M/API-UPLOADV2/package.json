@@ -1,0 +1,19 @@
+{
+  "name": "api-upload",
+  "version": "1.0.0",
+  "description": "EXEMPLO DE APIN PARA UPLOAD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "CRISTIANO CORREA DE MORAES",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
